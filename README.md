@@ -60,4 +60,4 @@ ls -lt | head -n 5
 
 Would you like me to generate a shell script file (`task.sh`) to go along with this README?
 
-Thank you for reviewing my wor
+Thank you for reviewing my worK
